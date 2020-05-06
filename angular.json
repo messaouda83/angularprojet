@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projetangular"
+    }
+  },
+  "defaultProject": "projetangular",
+  "cli": {
+    "analytics": "aac5d14d-ad67-4e4f-8016-2e6a90995005"
+  }
 }
